@@ -1,6 +1,6 @@
 ### hugorithm 
 
-Just a guy who likes to press keys for a living. 
+Just a guy who likes to press keys for a living.   
 I love to build cool and performant projects, and ultimately develop really awesome software.
 
 Fun Facts
